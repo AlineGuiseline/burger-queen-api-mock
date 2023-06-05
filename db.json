@@ -204,13 +204,13 @@
     {
       "email": "burger@cooker.com",
       "password": "123456",
-      "role": "cozinha",
+      "role": "cooker",
       "id": 4
     },
     {
       "email": "burger@waiter.com",
       "password": "123456",
-      "role": "atendimento",
+      "role": "waiter",
       "id": 5
     }
   ]
