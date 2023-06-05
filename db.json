@@ -202,9 +202,9 @@
       "id": 3
     },
     {
-      "email": "burger@cooker.com",
+      "email": "burger@chef.com",
       "password": "123456",
-      "role": "cooker",
+      "role": "chef",
       "id": 4
     },
     {
