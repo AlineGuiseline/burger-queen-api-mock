@@ -203,7 +203,7 @@
     },
     {
       "email": "burger@chef.com",
-      "password": "123456",
+      "password": "$2a$10$R6l4Lk0wf.vu8QeTb5ArHumWOIBvkyiMZNP8r.RUEOwSzyZS6neey",
       "role": "chef",
       "id": 4
     },
