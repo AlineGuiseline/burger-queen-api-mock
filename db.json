@@ -62,7 +62,30 @@
       "status": "delivered",
       "dataEntry": "2022-03-05 15:00",
       "dateProcessed": "2022-03-05 16:00"
-    }
+    },
+    	{
+		"userId": "1",
+		"client": "Aline",
+		"products": [
+			{
+				"id": 6,
+				"name": "Hambúrguer duplo",
+				"price": 15,
+				"quantity": 1,
+				"type": "Almoço"
+			},
+			{
+				"id": 7,
+				"name": "Batata frita",
+				"price": 5,
+				"quantity": 1,
+				"type": "Almoço"
+			}
+		],
+		"status": "pending",
+		"dateEntry": "09/06/2023, 14:27:25",
+		"id": 3
+	}
   ],
   "products": [
     {
