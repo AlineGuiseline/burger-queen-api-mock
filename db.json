@@ -19,7 +19,7 @@
 				"type": "Almoço"
 			}
 		],
-		"status": "pendente",
+		"status": "pronto para envio",
 		"dateEntry": "09/06/2023, 14:27:25",
 		"id": 3
 	},
@@ -42,7 +42,7 @@
 				"type": "Sobremesas"
 			}
 		],
-		"status": "pendente",
+		"status": "pronto para envio",
 		"dateEntry": "09/06/2023, 15:23:24",
 		"id": 4
 	},
@@ -70,6 +70,110 @@
 		"status": "pendente",
 		"dateEntry": "09/06/2023, 15:27:48",
 		"id": 5
+	},
+  {
+		"id": 6,
+		"userId": "1",
+		"client": "Cliente ",
+		"products": [
+			{
+				"id": 6,
+				"name": "Hambúrguer duplo",
+				"price": 15,
+				"quantity": 2,
+				"type": "Almoço"
+			},
+			{
+				"id": 7,
+				"name": "Batata frita",
+				"price": 5,
+				"quantity": 1,
+				"type": "Almoço"
+			},
+			{
+				"id": 8,
+				"name": "Anéis de cebola",
+				"price": 5,
+				"quantity": 1,
+				"type": "Almoço"
+			},
+			{
+				"id": 14,
+				"name": "Petit gateau com sorvete",
+				"price": 15,
+				"quantity": 1,
+				"type": "Sobremesas"
+			},
+			{
+				"id": 10,
+				"name": "Refrigerante 500ml",
+				"price": 7,
+				"quantity": 2,
+				"type": "Bebidas"
+			}
+		],
+		"status": "pronto para envio",
+		"dateEntry": "12/06/2023, 14:52:46"
+	},
+	{
+		"id": 7,
+		"userId": "1",
+		"client": "Júlia",
+		"products": [
+			{
+				"id": 5,
+				"name": "Hambúrguer simples",
+				"price": 10,
+				"quantity": 1,
+				"type": "Almoço"
+			},
+			{
+				"id": 7,
+				"name": "Batata frita",
+				"price": 5,
+				"quantity": 2,
+				"type": "Almoço"
+			},
+			{
+				"id": 10,
+				"name": "Refrigerante 500ml",
+				"price": 7,
+				"quantity": 1,
+				"type": "Bebidas"
+			},
+			{
+				"id": 16,
+				"name": "Cheesecake",
+				"price": 10,
+				"quantity": 1,
+				"type": "Sobremesas"
+			}
+		],
+		"status": "pendente",
+		"dateEntry": "12/06/2023, 14:50:12"
+	},
+	{
+		"id": 8,
+		"userId": "1",
+		"client": "Carol",
+		"products": [
+			{
+				"id": 15,
+				"name": "Milkshake",
+				"price": 7,
+				"quantity": 1,
+				"type": "Sobremesas"
+			},
+			{
+				"id": 16,
+				"name": "Cheesecake",
+				"price": 10,
+				"quantity": 1,
+				"type": "Sobremesas"
+			}
+		],
+		"status": "pendente",
+		"dateEntry": "12/06/2023, 14:57:57"
 	}
   ],
   "products": [
