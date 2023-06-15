@@ -1,6 +1,203 @@
 {
   "orders": [
-
+    {
+      "id": 1,
+      "userId": "5",
+      "client": "Cliente",
+      "products": [
+        {
+          "id": 5,
+          "name": "Hambúrguer simples",
+          "price": 10,
+          "quantity": 2,
+          "type": "Almoço"
+        },
+        {
+          "id": 10,
+          "name": "Refrigerante 500ml",
+          "price": 7,
+          "quantity": 1,
+          "type": "Bebidas"
+        },
+        {
+          "id": 12,
+          "name": "Água com gás 500ml",
+          "price": 5,
+          "quantity": 1,
+          "type": "Bebidas"
+        },
+        {
+          "id": 14,
+          "name": "Petit gateau com sorvete",
+          "price": 15,
+          "quantity": 1,
+          "type": "Sobremesas"
+        },
+        {
+          "id": 16,
+          "name": "Cheesecake",
+          "price": 10,
+          "quantity": 1,
+          "type": "Sobremesas"
+        }
+      ],
+      "status": "pendente",
+      "dateEntry": "2023-06-15T17:00:36.435Z"
+    },
+    {
+      "id": 2,
+      "userId": "5",
+      "client": "Aline",
+      "products": [
+        {
+          "id": 6,
+          "name": "Hambúrguer duplo",
+          "price": 15,
+          "quantity": 1,
+          "type": "Almoço"
+        },
+        {
+          "id": 7,
+          "name": "Batata frita",
+          "price": 5,
+          "quantity": 1,
+          "type": "Almoço"
+        },
+        {
+          "id": 15,
+          "name": "Milkshake",
+          "price": 7,
+          "quantity": 1,
+          "type": "Sobremesas"
+        }
+      ],
+      "status": "pendente",
+      "dateEntry": "2023-06-15T17:00:47.774Z"
+    },
+    {
+      "id": 3,
+      "userId": "5",
+      "client": "Bia",
+      "products": [
+        {
+          "id": 1,
+          "name": "Sanduíche de presunto e queijo",
+          "price": 7,
+          "quantity": 2,
+          "type": "Café da manhã",
+          "dateEntry": "2022-03-05 15:14:10"
+        },
+        {
+          "id": 4,
+          "name": "Café com leite",
+          "price": 5,
+          "quantity": 1,
+          "type": "Café da manhã",
+          "dateEntry": "2022-03-05 15:14:10"
+        }
+      ],
+      "status": "pendente",
+      "dateEntry": "2023-06-15T17:03:23.047Z"
+    },
+    {
+      "id": 4,
+      "userId": "5",
+      "client": "Carla",
+      "products": [
+        {
+          "id": 5,
+          "name": "Hambúrguer simples",
+          "price": 10,
+          "quantity": 1,
+          "type": "Almoço"
+        },
+        {
+          "id": 8,
+          "name": "Anéis de cebola",
+          "price": 5,
+          "quantity": 1,
+          "type": "Almoço"
+        },
+        {
+          "id": 9,
+          "name": "Suco de fruta natural",
+          "price": 7,
+          "quantity": 1,
+          "type": "Bebidas"
+        }
+      ],
+      "status": "pendente",
+      "dateEntry": "2023-06-15T17:05:06.432Z"
+    },
+    {
+      "id": 5,
+      "userId": "5",
+      "client": "Carol",
+      "products": [
+        {
+          "id": 14,
+          "name": "Petit gateau com sorvete",
+          "price": 15,
+          "quantity": 1,
+          "type": "Sobremesas"
+        },
+        {
+          "id": 16,
+          "name": "Cheesecake",
+          "price": 10,
+          "quantity": 1,
+          "type": "Sobremesas"
+        }
+      ],
+      "status": "pendente",
+      "dateEntry": "2023-06-15T17:05:18.245Z"
+    },
+    {
+      "id": 6,
+      "userId": "5",
+      "client": "Carla",
+      "products": [
+        {
+          "id": 1,
+          "name": "Sanduíche de presunto e queijo",
+          "price": 7,
+          "quantity": 2,
+          "type": "Café da manhã",
+          "dateEntry": "2022-03-05 15:14:10"
+        },
+        {
+          "id": 4,
+          "name": "Café com leite",
+          "price": 5,
+          "quantity": 2,
+          "type": "Café da manhã",
+          "dateEntry": "2022-03-05 15:14:10"
+        },
+        {
+          "id": 14,
+          "name": "Petit gateau com sorvete",
+          "price": 15,
+          "quantity": 1,
+          "type": "Sobremesas"
+        },
+        {
+          "id": 15,
+          "name": "Milkshake",
+          "price": 7,
+          "quantity": 1,
+          "type": "Sobremesas"
+        },
+        {
+          "id": 9,
+          "name": "Suco de fruta natural",
+          "price": 7,
+          "quantity": 1,
+          "type": "Bebidas"
+        }
+      ],
+      "status": "pendente",
+      "dateEntry": "2023-06-15T17:05:32.293Z"
+    }
   ],
   "products": [
     {
