@@ -347,6 +347,54 @@
       "password": "$2a$10$hqeff6nhcz.bxDu3gN4wdeemkr.Rs2OvGz/wcTFxqWrtBhN9FjxYO",
       "role": "waiter",
       "id": 5
+    },
+    {
+      "email": "burger@admin.com",
+      "password": "$2a$10$omw9Or05S7PQUihIiwT6FOdV3bh.wvrSqzvWTzQv5jl60V7r6J6n2",
+      "role": "admin",
+      "id": 6
+    }
+  ],
+  "stock": [
+    {
+      "id": 1,
+      "name": "Pão de hambúrguer",
+      "quantity": 10
+    },
+    {
+      "id": 2,
+      "name": "Queijo",
+      "quantity": 15
+    },
+    {
+      "id": 3,
+      "name": "Hambúrguer",
+      "quantity": 10
+    },
+    {
+      "id": 4,
+      "name": "Condimentos",
+      "quantity": 10
+    },
+    {
+      "id": 5,
+      "name": "Alface",
+      "quantity": 15
+    },
+    {
+      "id": 6,
+      "name": "Refrigerante",
+      "quantity": 20
+    },
+    {
+      "id": 7,
+      "name": "Água com gás",
+      "quantity": 20
+    },
+    {
+      "id": 8,
+      "name": "Água natural",
+      "quantity": 20
     }
   ]
 }
